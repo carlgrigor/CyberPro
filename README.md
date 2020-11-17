@@ -1,4 +1,4 @@
-# CyberPro
+# CyberPro - A Simple WinForm Phonebook Application
 God Day, please follow these instructions...
 
 1.  Please download the file named PhoneBookExample.zip.
