@@ -1,5 +1,5 @@
 # CyberPro
-God Day, please follow the following instructions...
+God Day, please follow these instructions...
 
 1.  Please download the file named PhoneBookExample.zip.
 2.  Extract file PhoneBookExample.zip.
